@@ -1,4 +1,4 @@
-import numpy as np  # noqa: I001
+import numpy as np
 
 #f(x) = x1^4 + x2^2 + 2*x1*x2 + 1
 def f(x):
