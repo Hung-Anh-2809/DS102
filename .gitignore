@@ -1,4 +1,8 @@
-.vscode/
+BAI TAP/
+
+TAI LIEU/
+
+**/.vscode
 
 __pycache__/
 *.pyc
